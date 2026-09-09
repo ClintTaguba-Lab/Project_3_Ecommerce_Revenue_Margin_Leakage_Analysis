@@ -65,6 +65,8 @@ This project investigates:
 
 ## 📊 Dashboard Overview
 
+![Executive Summary Dashboard](images/Executive-Summary.png)
+
 ### 1. Executive Summary
 
 Provides senior leadership with a high-level view of:
