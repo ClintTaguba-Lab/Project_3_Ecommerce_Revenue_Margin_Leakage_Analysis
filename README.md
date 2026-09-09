@@ -134,6 +134,25 @@ The objective was to determine whether margin sacrifice from aggressive discount
 
 ---
 
+### 4. Customer Value
+
+![Customer Value Dashboard](images/Customer-Value.png)
+
+This section examines whether customers exposed to deeper discounts generate enough additional value to justify the reduction in profit margin.
+
+The analysis focuses on:
+
+- Customer order frequency
+- Average order value
+- Repeat purchasing behavior
+- Profitability by customer group
+- Exposure to deep discounts
+- Relationship between customer activity and margin contribution
+
+The objective is to determine whether aggressive discounting creates stronger customer value or simply increases margin leakage.
+
+---
+
 ## 🔎 Key Findings
 
 ### 1. Deep discounts significantly increase profit risk
