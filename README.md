@@ -89,19 +89,19 @@ Five analytical questions guide the project:
 
 **Secondary Objectives
 
-1:** Evaluate revenue, profit and profit margin performance over time.
+1. Evaluate revenue, profit and profit margin performance over time.
 
-2:** Measure negative profit exposure across categories, products and markets.
+2. Measure negative profit exposure across categories, products and markets.
 
-3:** Compare profitability across different discount bands.
+3. Compare profitability across different discount bands.
 
-4:** Evaluate the commercial difference between discounts of 20% or below and discounts above 20%.
+4. Evaluate the commercial difference between discounts of 20% or below and discounts above 20%.
 
-5:** Assess whether deeper discounts are associated with larger average order values or stronger order frequency.
+5. Assess whether deeper discounts are associated with larger average order values or stronger order frequency.
 
-6:** Examine customer repeat behavior in relation to discount exposure.
+6. Examine customer repeat behavior in relation to discount exposure.
 
-7:** Translate analytical findings into practical actions for discount governance and profitability improvement.
+7. Translate analytical findings into practical actions for discount governance and profitability improvement.
 
 > 💡 *Every dashboard page and analytical measure supports one or more of these objectives.*
 
