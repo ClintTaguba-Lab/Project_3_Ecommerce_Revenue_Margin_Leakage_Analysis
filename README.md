@@ -372,54 +372,31 @@ SUM(FactSales[Sales])
 #### Total Profit
 
 ```DAX
-Total Profit =
-SUM(FactSales[Profit])
+Total Profit =SUM(FactSales[Profit])
 ```
 
 #### Profit Margin
 
 ```DAX
-Profit Margin =
-DIVIDE(
-    [Total Profit],
-    [Total Revenue],
-    0
-)
+Profit Margin =DIVIDE([Total Profit],[Total Revenue],0)
 ```
 
 #### Average Order Value
 
 ```DAX
-Average Order Value =
-DIVIDE(
-    [Total Revenue],
-    [Order Count],
-    0
-)
+Average Order Value =DIVIDE([Total Revenue],[Order Count],0)
 ```
 
 #### Discounted Sales
 
 ```DAX
-Discounted Sales =
-CALCULATE(
-    [Total Revenue],
-    FactSales[Discount] > 0
-)
+Discounted Sales =CALCULATE([Total Revenue],FactSales[Discount] > 0)
 ```
 
 #### Contribution to Total Loss
 
 ```DAX
-% Contribution to Total Loss =
-DIVIDE(
-    [Total Loss Amount],
-    CALCULATE(
-        [Total Loss Amount],
-        ALL(DimProduct)
-    ),
-    0
-)
+% Contribution to Total Loss =DIVIDE([Total Loss Amount],CALCULATE([Total Loss Amount],ALL(DimProduct)),0)
 ```
 
 ------------------------------------------------------------------------
