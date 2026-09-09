@@ -118,6 +118,8 @@ to determine where discounting begins to materially damage profitability.
 
 ### 3. Customer Behaviour & Seasonality
 
+![Customer Behaviour & Seasonality Dashboard](images/Customer-Behaviour.png)
+
 This section evaluates whether deep discounting is associated with stronger customer value.
 
 The analysis considers:
