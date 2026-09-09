@@ -90,6 +90,8 @@ Key visuals include:
 
 ### 2. Deep Discount & Profitability Analysis
 
+![Discount & Profitability Dashboard](images/Discount-Profitability.png)
+
 This section evaluates the relationship between discount levels and profitability.
 
 Discounts were grouped into:
