@@ -87,19 +87,21 @@ Five analytical questions guide the project:
 
 **Primary Objective:** Identify where discounting begins to materially reduce profitability and determine whether deeper discounts generate sufficient commercial value to justify the margin sacrifice.
 
-**Secondary Objective 1:** Evaluate revenue, profit and profit margin performance over time.
+**Secondary Objectives
 
-**Secondary Objective 2:** Measure negative profit exposure across categories, products and markets.
+1:** Evaluate revenue, profit and profit margin performance over time.
 
-**Secondary Objective 3:** Compare profitability across different discount bands.
+2:** Measure negative profit exposure across categories, products and markets.
 
-**Secondary Objective 4:** Evaluate the commercial difference between discounts of 20% or below and discounts above 20%.
+3:** Compare profitability across different discount bands.
 
-**Secondary Objective 5:** Assess whether deeper discounts are associated with larger average order values or stronger order frequency.
+4:** Evaluate the commercial difference between discounts of 20% or below and discounts above 20%.
 
-**Secondary Objective 6:** Examine customer repeat behavior in relation to discount exposure.
+5:** Assess whether deeper discounts are associated with larger average order values or stronger order frequency.
 
-**Secondary Objective 7:** Translate analytical findings into practical actions for discount governance and profitability improvement.
+6:** Examine customer repeat behavior in relation to discount exposure.
+
+7:** Translate analytical findings into practical actions for discount governance and profitability improvement.
 
 > 💡 *Every dashboard page and analytical measure supports one or more of these objectives.*
 
