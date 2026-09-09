@@ -153,6 +153,22 @@ The objective is to determine whether aggressive discounting creates stronger cu
 
 ---
 
+### 5. Recommendations & Conclusion
+
+![Recommendations & Conclusion Dashboard](images/recommendations.png)
+
+This page translates the analytical findings into clear business actions focused on reducing margin leakage while protecting sales performance.
+
+The recommendations focus on:
+
+- Introducing stronger governance for discounts above 20%
+- Prioritizing high-risk products and markets
+- Protecting profitable customer behavior
+- Testing changes before company-wide implementation
+- Monitoring profitability and commercial impact
+
+---
+
 ## 🔎 Key Findings
 
 ### 1. Deep discounts significantly increase profit risk
